@@ -1,6 +1,6 @@
 name: Jason Mayes
 favicon: null
-layout_spectrum: 0.2952436041086912
+layout_spectrum: 0.76211
 typography_spectrum: 0.12499288748949766
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.9285103557631373
+  brandStrength: 0.6875
   lightness: 0.4662749031558633
   saturation: 0.27935634925961494
   rhythmicContrast: 0.558284085476771
