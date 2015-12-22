@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'A novel way to select items, in this case books within a web user interface'
-datePublished: '2015-12-22T20:36:21.534Z'
-dateModified: '2015-12-22T20:36:06.827Z'
-title: A novel way to select items
+description: '  A novel way to select items, in this case books within a web user interface'
+datePublished: '2015-12-22T20:41:37.622Z'
+dateModified: '2015-12-22T20:41:15.880Z'
+title: ' A novel way to select items'
 author: []
 authors: []
 publisher:
@@ -24,13 +24,12 @@ _type: Article
 ---
 **A novel way to select items, in this case books within a web user interface**
 
-********
-
 [\#MotionDesign][0][\#Design][1][\#UX][2][\#Inspiration][3]
 
 Learn more:
 
 [https://dribbble.com/shots/2403246-Book-selecting-concept-animation-transition][4]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ddc6c86-6040-41fe-959a-8b6e70c72f87.gif)
 
 [0]: https://plus.google.com/s/%23MotionDesign
 [1]: https://plus.google.com/s/%23Design
